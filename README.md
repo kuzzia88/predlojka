@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/kuzzia88/predlozka/
+git clone https://github.com/kuzzia88/predlojka/
 cd predlojka
 ```
 2. Устанавливаете зависимости:
